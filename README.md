@@ -4,15 +4,6 @@ tags: Flutter
 disqus: hackmd
 ---
 
-<style>
-.red {
-  color: red;
-}
-.blue {
-    color: blue;
-}
-</style>
-
 <font size="6">Flutter SharedPreferences</font>
 
 **目錄：**
